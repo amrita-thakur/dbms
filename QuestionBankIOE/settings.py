@@ -143,6 +143,6 @@ STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles')
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8080",
     "http://localhost:8081",
-    "https://modest-goldberg-93c418.netlify.app/"
+    "https://questionbankioe.netlify.app/"
 ]
 
